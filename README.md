@@ -41,7 +41,7 @@ We can see from the above images of the original code that they do not display a
 
 We can see from the above images of the refactored code that the excel sheet has actual data & is colorized for easy viewing.
 
-Based off the data received after running the macro, we can see that of all stocks analyzed, "ENPH" had the most success for both years (2017 & 2018). Steve would be wise to recommend to his parents that they should consider investing into "ENPH". A follow up stock to consider is "RUN", though this stock does not seem to have as high returns. It is best to use historical data to make better predictions of how a stock will perform rather than using abbreviations similiar to Dairy Queen. 
+Based off the data received after running the macro, we can see that of all stocks analyzed, "ENPH" had the most success for both years (2017 & 2018). Steve would be wise to recommend to his parents that they should consider investing into "ENPH". A follow up stock to consider is "RUN", though this stock does not seem to have as high returns in 2017 than its "ENPH" counterpart, though "RUN" did have a high performance in 2018. It is best to use historical data to make better predictions of how a stock will perform rather than using abbreviations similiar to Dairy Queen. On another note, the broken original 
 
 
 # Summary 
